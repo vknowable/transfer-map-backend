@@ -1,6 +1,7 @@
 # Namada Transfer indexer/api server
 
-App to index transfers to postgres and serve them to a json api endpoint.
+App to index transfers to postgres and serve them to a json api endpoint.  
+Front-end: https://github.com/vknowable/transfer-map
 
 ## Usage
 1. Start the postgres container:
