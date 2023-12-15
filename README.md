@@ -9,7 +9,7 @@ Front-end: https://github.com/vknowable/transfer-map
 cd docker-compose
 docker compose -f postgres-docker-compose.yml up -d
 ```
-2. Run db migrations
+2. Run db migrations (from project root dir)
 ```
 cargo install sqlx-cli
 sqlx migrate run
